@@ -24,7 +24,7 @@ Olá!🌈🌞
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria2002campos&layout=compact&langs_count=7&theme=dracula"/>
     
 
-    
+    ![#ffc0cb](https://via.placeholder.com/15/ffc0cb/000000?text=+) `#ffc0cb` 
 </div>
 
 
