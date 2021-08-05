@@ -17,10 +17,18 @@ Olá!🌈🌞
 
 
 
+
 <div>
   <a href="https://github.com/vitoria2002campos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoria2002campos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria2002campos&layout=compact&langs_count=7&theme=dracula"/>
+    
+
+    
 </div>
 
-! [Animação de cobra] (hhtps://github.com/vitoria2002campos/vitoria2002campos/blob/output/github-contribution-grid-snake.svg)
+
+  
+  
+  
+  
