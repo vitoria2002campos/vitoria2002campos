@@ -10,7 +10,7 @@ Olá!🌈🌞
 
 
 
-![githubgif](https://user-images.githubusercontent.com/64369536/128420470-1241ff64-0e59-433f-b336-d017bf12abbb.gif)
+
 
 
 
