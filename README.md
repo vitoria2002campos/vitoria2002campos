@@ -6,7 +6,6 @@ Olá!🌈🌞
 
 💕Amo Aprender coisas novas, principalmente quando se trata de tecnologia.
 
-⏱🤞Em um futuro próximo serei oficialmente uma desenvolvedora Java jr!.
 
 
 
