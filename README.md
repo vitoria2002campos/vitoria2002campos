@@ -8,16 +8,6 @@ Olá!🌈🌞
 
 
 
-![]("https://giphy.com/embed/ASd0Ukj0y3qMM")
-
-
-
-<img src= width="40" height="40" />
-
-
-    
-
-
 
   
   
