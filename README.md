@@ -2,6 +2,7 @@
 ![snake gif](https://github.com/vitoria2002campos/vitoria2002campos/blob/output/github-contribution-grid-snake.svg)
 
 
-<p align="center">
-<img width="435" height="480" src="https://giphy.com/embed/3oriO04qxVReM5rJEA">
-</p>
+<div>
+  <img height= "200" src="https://67.media.tumblr.com/c10da7d3592bddfca6a8d2586b15c153/tumblr_of7di4D6mW1tr7vtjo1_500.gif">
+</div>
+
