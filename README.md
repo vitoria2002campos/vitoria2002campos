@@ -9,10 +9,10 @@
  <p color="white">Welcome to my universe!</p>
 
  
- <img height= "200" src="https://media2.giphy.com/media/xT5LMOXUwubrGILsKA/giphy.gif?cid=ecf05e47tbgc5iab86tc5xz5mab2d591o4tuz6p6jtk48kbm&rid=giphy.gif&ct=g">
+ <img height= "100" src="https://media2.giphy.com/media/xT5LMOXUwubrGILsKA/giphy.gif?cid=ecf05e47tbgc5iab86tc5xz5mab2d591o4tuz6p6jtk48kbm&rid=giphy.gif&ct=g">
   
  
- <img height= "200" src="https://media2.giphy.com/media/f5MhOzuHyJU4kWqvsj/giphy.gif?cid=ecf05e47m6b3q5sta1zehx0kby7bbkm29czn9jxmw20ic40c&rid=giphy.gif&ct=g">
+
  
    </div>
 
