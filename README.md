@@ -13,4 +13,4 @@
 
 ![snake gif](https://github.com/vitoria2002campos/vitoria2002campos/blob/output/github-contribution-grid-snake.svg)
 
- <img width="900" height="200"  src="https://media4.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif?cid=ecf05e471hvj58wo1am6ydek1678optlrvgp8roywm7am432&rid=giphy.gif&ct=g">
+ <img width="900" height="200" border-radius="30"  src="https://media4.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif?cid=ecf05e471hvj58wo1am6ydek1678optlrvgp8roywm7am432&rid=giphy.gif&ct=g">
