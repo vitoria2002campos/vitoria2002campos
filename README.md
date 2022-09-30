@@ -1,9 +1,4 @@
 
-body {
-  font-size: 20px;
-}
-</style>
-<body>
 
 <span style='font-size:100px;'>&#10036;</span>
 <p>I will display &#10036;</p>
