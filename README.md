@@ -1,7 +1,7 @@
 
 
 
-<p>I will display &#x2734;</p>
+<p> &#x2734;</p>
 
 </body>
 </html>
