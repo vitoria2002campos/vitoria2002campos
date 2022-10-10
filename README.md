@@ -6,15 +6,8 @@
 </body>
 </html>
 <div align="center">
- <p color="white">Welcome to my universe!</p>
-
- 
- <img height= "100" src="https://media2.giphy.com/media/xT5LMOXUwubrGILsKA/giphy.gif?cid=ecf05e47tbgc5iab86tc5xz5mab2d591o4tuz6p6jtk48kbm&rid=giphy.gif&ct=g">
-  
- 
-
- 
-   </div>
+ <p color="white">Welcome to my universe!</p>  
+ </div>
 
   
  
