@@ -6,7 +6,7 @@
 </body>
 </html>
 <div align="center">
- <h2 color="white">Welcome to my universe!</h2>  
+ <h5 color="white">Welcome to my universe!</h5>  
  </div>
 
   
